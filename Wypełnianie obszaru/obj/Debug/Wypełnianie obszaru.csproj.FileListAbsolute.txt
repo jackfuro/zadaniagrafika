@@ -1,0 +1,33 @@
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\bin\Debug\Wypełnianie obszaru.exe.config
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\bin\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\bin\Debug\Wypełnianie obszaru.pdb
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie_obszaru.Form1.resources
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie_obszaru.Properties.Resources.resources
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\source\repos\Wypełnianie obszaru\obj\Debug\Wypełnianie obszaru.pdb
+C:\Users\kwidz\Desktop\grafika\bin\Debug\Wypełnianie obszaru.exe.config
+C:\Users\kwidz\Desktop\grafika\bin\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\Desktop\grafika\bin\Debug\Wypełnianie obszaru.pdb
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.csproj.AssemblyReference.cache
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie_obszaru.Form1.resources
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie_obszaru.Properties.Resources.resources
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.csproj.GenerateResource.cache
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\Desktop\grafika\obj\Debug\Wypełnianie obszaru.pdb
+C:\Users\kwidz\Desktop\Nowy folder\bin\Debug\Wypełnianie obszaru.exe.config
+C:\Users\kwidz\Desktop\Nowy folder\bin\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\Desktop\Nowy folder\bin\Debug\Wypełnianie obszaru.pdb
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.csproj.AssemblyReference.cache
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie_obszaru.Form1.resources
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie_obszaru.Properties.Resources.resources
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.csproj.GenerateResource.cache
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.exe
+C:\Users\kwidz\Desktop\Nowy folder\obj\Debug\Wypełnianie obszaru.pdb

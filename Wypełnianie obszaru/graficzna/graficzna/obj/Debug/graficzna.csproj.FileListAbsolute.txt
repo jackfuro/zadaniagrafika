@@ -1,0 +1,11 @@
+C:\Users\kwidz\source\repos\graficzna\graficzna\bin\Debug\graficzna.exe.config
+C:\Users\kwidz\source\repos\graficzna\graficzna\bin\Debug\graficzna.exe
+C:\Users\kwidz\source\repos\graficzna\graficzna\bin\Debug\graficzna.pdb
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.Form1.resources
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.Properties.Resources.resources
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.exe
+C:\Users\kwidz\source\repos\graficzna\graficzna\obj\Debug\graficzna.pdb

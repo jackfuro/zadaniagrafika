@@ -1,0 +1,11 @@
+C:\Users\kwidz\source\repos\WykresFunkcji\bin\Debug\WykresFunkcji.exe.config
+C:\Users\kwidz\source\repos\WykresFunkcji\bin\Debug\WykresFunkcji.exe
+C:\Users\kwidz\source\repos\WykresFunkcji\bin\Debug\WykresFunkcji.pdb
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.Form1.resources
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.Properties.Resources.resources
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.exe
+C:\Users\kwidz\source\repos\WykresFunkcji\obj\Debug\WykresFunkcji.pdb
