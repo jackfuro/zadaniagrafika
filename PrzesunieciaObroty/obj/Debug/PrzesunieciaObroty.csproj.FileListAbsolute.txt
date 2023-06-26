@@ -1,0 +1,11 @@
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.exe.config
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.exe
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.pdb
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.Form1.resources
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.Properties.Resources.resources
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.exe
+C:\Users\kwidz\source\repos\PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.pdb

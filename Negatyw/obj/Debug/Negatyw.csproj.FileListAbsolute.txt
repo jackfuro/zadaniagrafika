@@ -1,0 +1,11 @@
+C:\Users\kwidz\source\repos\Negatyw\bin\Debug\Negatyw.exe.config
+C:\Users\kwidz\source\repos\Negatyw\bin\Debug\Negatyw.exe
+C:\Users\kwidz\source\repos\Negatyw\bin\Debug\Negatyw.pdb
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.Form1.resources
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.Properties.Resources.resources
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.exe
+C:\Users\kwidz\source\repos\Negatyw\obj\Debug\Negatyw.pdb

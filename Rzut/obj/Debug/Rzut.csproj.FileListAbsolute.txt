@@ -1,0 +1,11 @@
+C:\Users\kwidz\source\repos\Rzut\bin\Debug\Rzut.exe.config
+C:\Users\kwidz\source\repos\Rzut\bin\Debug\Rzut.exe
+C:\Users\kwidz\source\repos\Rzut\bin\Debug\Rzut.pdb
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.csproj.AssemblyReference.cache
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.Properties.Resources.resources
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.csproj.GenerateResource.cache
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.csproj.CoreCompileInputs.cache
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.exe
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.pdb
+C:\Users\kwidz\source\repos\Rzut\obj\Debug\Rzut.Form1.resources
